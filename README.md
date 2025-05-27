@@ -43,14 +43,14 @@ The Power BI report for Atliq Hardware provides a comprehensive overview of sale
 
 🛠 𝗧ools & Techniques used :
 
-Power Query.
-Data Cleaning and Transformation.
-Star schema setting up.
-Filtering and TOP-N method.
-DAX for advanced calculation .
-Visualization.
-Dashboard creation.
-Power BI report publishing.
+➤Power Query.
+➤Data Cleaning and Transformation.
+➤Star schema setting up.
+➤Filtering and TOP-N method.
+➤DAX for advanced calculation .
+➤Visualization.
+➤Dashboard creation.
+➤Power BI report publishing.
 
 💡𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀:
 
