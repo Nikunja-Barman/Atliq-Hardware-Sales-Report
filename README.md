@@ -18,7 +18,6 @@ Atliq Hardware is struggling to gain a clear and actionable understanding of its
 
 ● Reactive Decision-Making: Over-reliance on static reports results in delayed and less accurate strategic planning, as dynamic data analysis is not readily available.
 
-
 🔑𝗪𝗵𝗮𝘁 𝗜 𝗗𝗶𝗱:  
 
 The Power BI report for Atliq Hardware provides a comprehensive overview of sales performance, designed to quickly deliver actionable insights.
@@ -60,3 +59,7 @@ The Power BI report for Atliq Hardware provides a comprehensive overview of sale
 📍Leveraging features like Power Query, DAX .
 
 📊This project gave me a solid understanding of how businesses monitor performance and make informed decisions using Sales Analytics.
+
+![image](https://github.com/user-attachments/assets/2c7b4851-ebc9-41f4-bec2-a3b31886c089)
+
+
