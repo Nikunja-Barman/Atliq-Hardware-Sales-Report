@@ -60,7 +60,7 @@ The Power BI report for Atliq Hardware provides a comprehensive overview of sale
 
 ● Top 5 Products by Revenue (Bar Chart): Similarly, this bar chart showcases the top 5 product_codes generating the highest revenue, guiding product focus and marketing strategies.
 
-![image](https://github.com/user-attachments/assets/e50b1924-1fbf-4018-b6e5-b7e54ca56d13)
+![image](https://github.com/user-attachments/assets/64cea215-8938-4abf-9ff7-701bc07d4977)
 
 🛠 𝗧ools & Techniques used :
 
